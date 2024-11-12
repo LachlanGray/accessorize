@@ -1,0 +1,3 @@
+replicate
+opencv-python-headless
+cog
